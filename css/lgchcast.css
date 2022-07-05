@@ -1,0 +1,15 @@
+.background {
+    background: center no-repeat url(lgchcast_bg.png);
+  }
+  .logo {
+    background-image: url(lgch_logo.png);
+  }
+  
+  .progressBar {
+    background-color: rgb(255, 166, 0);
+  }
+  
+  .splash {
+    background-image: url(lgch_logo.png);
+  }
+  
