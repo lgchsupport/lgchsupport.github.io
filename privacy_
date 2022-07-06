@@ -1,0 +1,239 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalabel=no">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title></title>
+<style type="text/css">
+/* LG Smart Ui */
+@font-face {
+font-family: 'LG SUXR';
+font-weight: 300;
+font-style: normal;
+src:url('./lg_smart_ui_light.ttf') format('truetype');
+}
+@font-face {
+font-family: 'LG SUXR';
+font-weight: 400;
+font-style: normal;
+src:url('./lg_smart_ui_regular.ttf') format('truetype');
+}
+@font-face {
+font-family: 'LG SUXR';
+font-weight: 500;
+font-style: normal;
+src:url('./lg_smart_ui_semibold.ttf') format('truetype');
+}
+@font-face {
+font-family: 'LG SUXR';
+font-weight: 700;
+font-style: normal;
+src:url('./lg_smart_ui_bold.ttf') format('truetype');
+}
+/* // LG Smart Ui */
+
+/* LG Smart Ui condensed */
+@font-face {
+font-family: 'LG SUXR CD';
+font-weight: 300;
+font-style: normal;
+src:url('./lg_smart_ui_condensed_light.ttf') format('truetype');
+}
+@font-face {
+font-family: 'LG SUXR CD';
+font-weight: 400;
+font-style: normal;
+src:url('./lg_smart_ui_condensed_regular.ttf') format('truetype');
+}
+@font-face {
+font-family: 'LG SUXR CD';
+font-weight: 500;
+font-style: normal;
+src:url('./lg_smart_ui_condensed_semibold.ttf') format('truetype');
+}
+@font-face {
+font-family: 'LG SUXR CD';
+font-weight: 700;
+font-style: normal;
+src:url('./lg_smart_ui_condensed_bold.ttf') format('truetype');
+}
+/* // LG Smart Ui condensed */
+
+body { background:#000;}
+body,input,select,textarea,button,a { font-family:'LG SUXR',sans-serif;}
+body,dl,dd,dt,h2,h3,p { margin:0; padding:0;}
+.terms_wrap { padding:15px;}
+.terms_wrap .tit { margin-bottom:16px; font-size:16px; color:#fff;}
+.terms_wrap .txtbox { margin-bottom:16px; font-size:14px; color:#fff;}
+.terms_wrap .ctgbox.depth1 { margin-bottom:16px;}
+.terms_wrap .ctgbox.depth2 { margin:16px 0 0 8px;}
+.terms_wrap .ctgbox dt { font-size:14px; color:#fff;}
+.terms_wrap .ctgbox dt h3 { font-size:14px;}
+.terms_wrap .ctgbox dd { margin-bottom:16px; font-size:14px; color:#fff;}
+.terms_wrap .ctgbox a { font-size:14px; color:#fff; text-decoration:none;}
+.terms_wrap .ctgbox a:focus,
+.terms_wrap .ctgbox a:active,
+.terms_wrap .ctgbox a:hover { text-decoration:underline;}
+.terms_wrap .ctgbox.depth1 > dt { font-weight:bold;}
+.terms_wrap .ctgbox.depth2 dt { text-decoration:underline;}
+</style>
+</head>
+<body>
+<!-- 약관 내용 -->
+<div class="terms_wrap">
+<h2 class="tit">Privacy Policy</h2>
+<div class="terms_item">
+<p class="txtbox">Last Updated: April 20, 2021</p>
+<p class="txtbox">LG Electronics Inc. and its subsidiaries (collectively “we,” “us,” or "LGE") care about your privacy. LGE provides many products and services. This privacy policy applies specifically to LGE’s LG Channels Mobile App (collectively, the "Services"). This privacy policy does not apply to any other LGE branded products or services. The purpose of this privacy policy is to explain how we collect information, what we collect, how we use it, how we share it, and what controls and rights you have. By using the Services, you consent to the terms of this privacy policy.</p>
+
+<dl class="ctgbox depth1">
+<dt><h3>A. How We Collect Information</h3></dt>
+<dd>
+When you use any of the Services, information about you may be collected directly from you or automatically from your device.
+<dl class="ctgbox depth2">
+<dt>Direct Collection.</dt>
+<dd>By using the Services, you may directly provide us with information. For example, you may click on buttons or enter text.</dd>
+<dt>Automatic Collection.</dt>
+<dd>By using the Services, you may automatically provide us with information. For example, your device may send us information about your device or network.</dd>
+<dt>Third Parties.</dt>
+<dd>LGEUS may also obtain information about you from third-party marketing, database, analytics partners, third party account login partners, or service providers.</dd>
+</dl>
+</dd>
+</dl>
+
+<dl class="ctgbox depth1">
+<dt><h3>B. The Information We Collect</h3></dt>
+<dd>
+As a general matter, LGE collects information that may help us in providing you with the current Services and provide you with future products and services.
+<dl class="ctgbox depth2">
+<dt>Basic Identifiers.</dt>
+<dd>We may collect basic identifying information about who our customers or visitors are. For example, we may collect information about (a) the person (e.g., first name, last name), (b) contact details (e.g., e-mail), (c) account details (e.g., username, password), and (d) device details (e.g., device model name, OS version, UUID, IMEI, Carrier, Country, log files, Internet Protocol (IP) address). Basic Identifiers may be collected directly, automatically from you when you interact with the Service or from third parties when you sign in using your credentials from another service.</dd>
+<dt>Network Activity.</dt>
+<dd>We may collect information about your Internet and other network activity. Such information may include how you interact with the Service. We may collect this information directly or automatically.</dd>
+<dt>Inferences about Trends and Preferences.</dt>
+<dd>Through the course of your interactions with the Service, we may create or collect inferences about you for purposes of creating a profile to understand you better, such as your basic preferences, predispositions, behavior, attitudes, aptitudes, or other characteristics. We may collect this information directly, automatically, or via third party marketing, database, or analytics partners.</dd>
+</dl>
+</dd>
+</dl>
+
+<dl class="ctgbox depth1">
+<dt><h3>C. How We Use Information</h3></dt>
+<dd>
+As a general matter, LGE uses the information it collects to help us in providing you with the current Services, to improve our products and services, and provide you with future products and services.
+<dl class="ctgbox depth2">
+<dt>To provide you with functionality.</dt>
+<dd>We may use your basic identifiers and network activity to provide you with the Services.</dd>
+<dt>To create an LGE account.</dt>
+<dd>We may use your basic identifiers to create an account with LGE.</dd>
+<dt>To serve you with relevant advertisements and marketing.</dt>
+<dd>We may use your basic identifiers, network activity, and inferences to serve you with relevant advertisements, marketing and special offers.</dd>
+<dt>To provide you with support.</dt>
+<dd>We may use your basic identifiers and network activity in order to provide you with support.</dd>
+<dt>To communicate with you.</dt>
+<dd>We may use your basic identifiers to communicate with you about our products, services, and special promotions.</dd>
+<dt>To compile statistics.</dt>
+<dd>We may use basic identifiers and network activity to compile statistics and other analytics about users and/or the function and usage of the Service.</dd>
+<dt>To comply with our legal obligations</dt>
+<dd>We may use basic identifiers and network activity to comply with any applicable legal obligations.</dd>
+</dl>
+</dd>
+</dl>
+
+<dl class="ctgbox depth1">
+<dt><h3>D. Sharing Your Information</h3></dt>
+<dd>
+In general, LGE may share all of the categories of information we collect within our corporate umbrella (e.g., with our corporate parent, subsidiaries, or joint partnerships) or with our external service providers in order to provide you with the current Services, to improve the Services, and provide you with future products and services, including all the purposes listed in the preceding “How We Use Information” section above. For example, LGE may share your information:
+<dl class="ctgbox depth2">
+<dt>To Provide Products or Services.</dt>
+<dd>We may share all of the above categories of information with our service providers, who help us provide you with products or services you request on the Service. We may also share with our parent company, subsidiaries, and affiliates in order to better serve you or maintain our business.</dd>
+<dt>To Provide You With More Relevant Advertisements.</dt>
+<dd>In order to provide you with certain advertisements, including ads tailored to your interests based upon your information (“interest-based advertisements”), we may need to share certain information with partners who work with us and with other entities to place these ads. Interest-based advertisements may be displayed across different platforms, websites, and devices.</dd>
+<dt>To Improve Our Advertising.</dt>
+<dd>We may share your collected information with service partners who assist us in placing and evaluating the effectiveness of our advertisements and marketing campaigns.</dd>
+<dt>For Legal Reasons.</dt>
+<dd>We may share all of the above categories of information with service partners or other outside entities as necessary to comply with our legal obligations, including compliance with any applicable law, legal process, or court order. We may also share information in order to protect and defend the rights of LGE, our users, or any other individual, to protect against fraudulent or malicious activity, to protect the safety of persons or property, to enforce our Terms &amp; Conditions, or to cooperate with law enforcement agencies.</dd>
+<dt>For Other Internal Reasons.</dt>
+<dd>We may share all of the above categories of information with service partners and other entities that provide LGE with certain services or assist with internal functions, such as analyzing data, maintaining the security of our systems, or ensuring our compliance with the law. For example, we may share information with auditing firms, outside attorneys in order to obtain legal advice, or with other professional advisors. Other entities that may receive information for these purposes include information security vendors, data analytics firms, quality assurance assessors, and similar types of entities. We may also share with our parent company, subsidiaries, and affiliates in order to better serve you or maintain our business.</dd>
+<dt>In Connection with a Sale or Merger.</dt>
+<dd>If we directly or indirectly undergo a business transition (including proposed transactions), such as a merger, acquisition by another company, or sale of all or part of our assets, we may share all of the above categories of information to the successor or potential successor organization, as well as their professional advisors during the transition.</dd>
+<dt>When you otherwise consent to such disclosure.</dt>
+<dd>We may share certain information with service partners or other entities when you direct us to share (e.g., via the use of our share button) or otherwise consent to our sharing such information.</dd>
+</dl>
+</dd>
+</dl>
+
+<dl class="ctgbox depth1">
+<dt><h3>E. Your control and choices</h3></dt>
+<dd>
+<dl class="ctgbox depth2">
+<dt>The information you submit.</dt>
+<dd>You are in control of the information that you choose to directly provide LGE. This privacy policy explains how LGE will treat any information that you choose to submit directly via the service. Please note that if you submit information to a public portion of an LGE Service (e.g., forums, chat rooms, product reviews, and other public posting areas), your information will be accessible by anyone and LGE makes no representations as to how other persons may use that public information. Please do not post or submit personal information to public areas within LGE Services if you do not want to make that information public.</dd>
+<dt>Your account.</dt>
+<dd>You may access certain of your information via your LGE account and determine whether you would like to edit or delete such information.</dd>
+<dt>Communications.</dt>
+<dd>From time to time, we communicate with users of the Services who subscribe to our services via email. Generally, you cannot opt-out of necessary or informational communications, but you may unsubscribe from other emails.</dd>
+<dd>Should you no longer wish to receive promotional emails from LGE, you may unsubscribe by logging into your LGE account and editing your email preferences or by clicking on the "unsubscribe" link within the text of the email.</dd>
+</dl>
+</dd>
+</dl>
+
+<dl class="ctgbox depth1">
+<dt><h3>F. Your Rights</h3></dt>
+<dd>
+<dl class="ctgbox depth2">
+<dt>California – California Consumer Privacy Act (“CCPA”):</dt>
+<dd>This document – the LGE privacy policy – provides notice to California consumers regarding the personal information collected, the sources of the personal information, the use of the personal information, a description of how LGE shares that personal information, and your California privacy rights.</dd>
+<dd>You have the right to (a) know what personal information LGE collects about you (including the specific pieces of that information), how it uses that information, to whom it discloses that information, and whether it sells that information to third parties, (b) to have LGE delete your personal information, (c) to opt out of any sale of your personal information, and (d) not be discriminated against for exercising any of these rights.</dd>
+<dd>LGE does not sell your personal information in connection with the Services.</dd>
+<dd>As a California resident, you may appoint an authorized agent to exercise your rights on your behalf. In order for us to honor a request made by your agent, you must submit proof of your written authorization of the agent to <a href="mailto:CAprivacy@lge.com">CAprivacy@lge.com</a> prior to submitting a request.</dd>
+<dt>How to exercise your data privacy rights:</dt>
+<dd>LGE takes your privacy seriously. That is why LGE operates a special form for you to exercise your privacy rights. You can access that privacy form here at <a href="https://www.LG.com/us/caprivacy" target="_blank">https://www.LG.com/us/caprivacy</a> or call LGE customer service at 833-660-0245 for assistance.</dd>
+<dd>In submitting a request, LGE may ask you to verify your identity so that we can protect you against fraudulent requests for your information. Thus, LGE may ask you to sign into your LGE account, to provide information about your LGE products, or provide other confirming information.</dd>
+<dt>California – Shine the Light.</dt>
+<dd>You have the right to be provided with a description of any categories of information that LGE disclosed to third parties for their direct marketing purposes and to know the identity of those third parties. To make such a request please contact us at <a href="mailto:CAprivacy@lge.com">CAprivacy@lge.com</a>.</dd>
+<dt>California – Eraser Law</dt>
+<dd>If you are a California resident under the age of 18 and are a registered user of the LGE Websites, then you may request that we remove any submission you publicly posted on or in the LGE Websites. To request removal of a submission, please email a detailed description of the submission to <a href="mailto:CAprivacy@lge.com">CAprivacy@lge.com</a>. You may also be able to log into your account and delete your own submission. LGE reserves the right to ask you to provide information that enables us to confirm that the submission in question was created and posted by you.</dd>
+</dl>
+</dd>
+</dl>
+
+<dl class="ctgbox depth1">
+<dt><h3>G. Where is your Information - International Transfer of Information</h3></dt>
+<dd>LGE is based in South Korea. However, in providing you with the Services, LGE may share or transfer your information within its corporate umbrella or with external service providers that may be located in the United States or other countries.</dd>
+</dl>
+
+<dl class="ctgbox depth1">
+<dt><h3>H. Collection and Use of Information from Children Under the Age of 16</h3></dt>
+<dd>LGE Services are open to users 16 years of age and above. LGE does not knowingly collect or solicit information from anyone under the age of 16 or knowingly allow such persons to use its Services. </dd>
+</dl>
+
+<dl class="ctgbox depth1">
+<dt><h3>I. Analytics</h3></dt>
+<dd>In providing the Services, we may utilize third-party data analytics service providers, such as Google Analytics or FireBase. To learn more about what data is collected for analytics, how it is used, and your choices, you can visit “How Google uses data when you use our partners' sites or apps,” (located at www.google.com/policies/privacy/partners/), “Safeguarding your Data” (located at <a href="https://support.google.com/analytics/answer/6004245#zippy=" target="_blank">https://support.google.com/analytics/answer/6004245#zippy=</a>) and “Google Analytics Opt-out Browser Add-on” (located at <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a>). </dd>
+</dl>
+
+<dl class="ctgbox depth1">
+<dt><h3>J. Third Party Web Sites and Cookies</h3></dt>
+<dd>This privacy policy applies solely to information collected via the Services. The Services may contain links to other web sites or services. Similarly, third parties may place cookies on your device that allow them to track your network activity while using LGE Websites and Services. Any information you provide to these third parties is subject to that third party’s privacy policy. We are not responsible for the privacy practices or the content of these other websites or third-party cookies.</dd>
+</dl>
+
+<dl class="ctgbox depth1">
+<dt><h3>K. Changes to this Privacy Policy</h3></dt>
+<dd>We reserve the right to change this privacy policy from time to time in our sole discretion. When we do, we will also revise the "last update" date at the top of this privacy policy. If material changes are made to the privacy policy, we will notify you by placing a prominent notice on the Services or via email at the email address we have on file for you. We encourage you to periodically review this privacy policy to keep up to date on how we are handling your personal information.</dd>
+</dl>
+
+<dl class="ctgbox depth1">
+<dt><h3>L. Security</h3></dt>
+<dd>We make reasonable efforts to ensure security on our systems, however, no data transmissions over the Internet or via postal mail can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to LGE is done at your own risk.</dd>
+</dl>
+
+<dl class="ctgbox depth1">
+<dt><h3>M. Contacting LGE</h3></dt>
+<dd>If you have any questions about this privacy policy or our privacy practices, please contact us at <a href="mailto:CAprivacy@lge.com">CAprivacy@lge.com</a>. All information you provide in any written communication will also be covered by this policy.</dd>
+</dl>
+</div>
+</div>
+<!-- // 약관 내용 -->
+</body>
+</html>
