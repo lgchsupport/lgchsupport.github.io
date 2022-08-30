@@ -1,0 +1,17 @@
+<rss xmlns:lge="http://www.lge.com/rss" version="2.0">
+    <tile>
+        <skipInterval>1</skipInterval>
+        <pubDate>Tue, 30 Aug 2022 12:26:50 +0000</pubDate>
+        <item>
+            <type>channel</type>
+            <title>The Wedding Video	</title>
+            <category>FREE</category>
+            <lge:deeplinkid>XM0C6LNWFGWKNK</lge:deeplinkid>
+            <lge:image>
+                <lge:url>https://image.xumo.com/v1/assets/asset/XM0C6LNWFGWKNK/960x540.jpg</lge:url>
+                <lge:width>960</lge:width>
+                <lge:height>540</lge:height>
+            </lge:image>
+        </item>
+    </tile>
+</rss>
