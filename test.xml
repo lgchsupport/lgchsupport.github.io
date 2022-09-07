@@ -1,17 +1,83 @@
 <rss xmlns:lge="http://www.lge.com/rss" version="2.0">
-    <tile>
-        <skipInterval>1</skipInterval>
-        <pubDate>Tue, 30 Aug 2022 12:26:50 +0000</pubDate>
-        <item>
-            <type>channel</type>
-            <title>The Wedding Video	</title>
-            <category>FREE</category>
-            <lge:deeplinkid>XM0C6LNWFGWKNK</lge:deeplinkid>
-            <lge:image>
-                <lge:url>https://image.xumo.com/v1/assets/asset/XM0C6LNWFGWKNK/960x540.jpg</lge:url>
-                <lge:width>960</lge:width>
-                <lge:height>540</lge:height>
-            </lge:image>
-        </item>
-    </tile>
+<tile>
+<skipInterval>24</skipInterval>
+<pubDate>Wed, 07 Sep 2022 06:22:09 GMT</pubDate>
+<item>
+<lge:deeplinkid>DocHollywood</lge:deeplinkid>
+<type>movie</type>
+<title>Doc Hollywood</title>
+<category>FREE</category>
+<lge:image>
+<lge:url>https://d28bvvhtnrlpwo.cloudfront.net/images/DocHollywood/DocHollywood_360x540.jpg</lge:url>
+<lge:width>360</lge:width>
+<lge:height>540</lge:height>
+</lge:image>
+</item>
+<item>
+<lge:deeplinkid>GoingTheDistance</lge:deeplinkid>
+<type>movie</type>
+<title>Going the Distance</title>
+<category>FREE</category>
+<lge:image>
+<lge:url>https://d28bvvhtnrlpwo.cloudfront.net/images/GoingTheDistance/GoingTheDistance_360x540.jpg</lge:url>
+<lge:width>360</lge:width>
+<lge:height>540</lge:height>
+</lge:image>
+</item>
+<item>
+<lge:deeplinkid>TheMask</lge:deeplinkid>
+<type>movie</type>
+<title>The Mask</title>
+<category>FREE</category>
+<lge:image>
+<lge:url>https://d28bvvhtnrlpwo.cloudfront.net/images/TheMask/TheMask_360x540.jpg</lge:url>
+<lge:width>360</lge:width>
+<lge:height>540</lge:height>
+</lge:image>
+</item>
+<item>
+<lge:deeplinkid>TheRookie</lge:deeplinkid>
+<type>movie</type>
+<title>Pluto TV Romance</title>
+<category>FREE</category>
+<lge:image>
+<lge:url>https://d28bvvhtnrlpwo.cloudfront.net/images/TheRookie/TheRookie_360x540.jpg</lge:url>
+<lge:width>360</lge:width>
+<lge:height>540</lge:height>
+</lge:image>
+</item>
+<item>
+<lge:deeplinkid>MillionDollarBaby</lge:deeplinkid>
+<type>movie</type>
+<title>Million Dollar Baby</title>
+<category>FREE</category>
+<lge:image>
+<lge:url>https://d28bvvhtnrlpwo.cloudfront.net/images/MillionDollarBaby/MillionDollarBaby_360x540.jpg</lge:url>
+<lge:width>360</lge:width>
+<lge:height>540</lge:height>
+</lge:image>
+</item>
+<item>
+<lge:deeplinkid>PSILoveYou</lge:deeplinkid>
+<type>movie</type>
+<title>P.S.ILoveYou</title>
+<category>FREE</category>
+<lge:image>
+<lge:url>https://d28bvvhtnrlpwo.cloudfront.net/images/PSILoveYou/PSILoveYou_360x540.jpg</lge:url>
+<lge:width>360</lge:width>
+<lge:height>540</lge:height>
+</lge:image>
+</item>
+<item>
+<lge:deeplinkid>YesMan</lge:deeplinkid>
+<type>movie</type>
+<title>Yes Man</title>
+<category>FREE</category>
+<lge:image>
+<lge:url>https://d28bvvhtnrlpwo.cloudfront.net/images/YesMan/YesMan_360x540.jpgg</lge:url>
+<lge:width>360</lge:width>
+<lge:height>540</lge:height>
+</lge:image>
+</item>
+</tile>
 </rss>
